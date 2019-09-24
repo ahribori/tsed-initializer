@@ -1,0 +1,11 @@
+port: 8080
+
+secret: jwt-secret-key
+
+sequelize:
+  dialect: mysql
+  host:
+  port:
+  username:
+  password:
+  database:
