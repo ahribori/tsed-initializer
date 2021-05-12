@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@tsed/common": "5.31.3",
-    "@tsed/core": "5.31.3",
+    "@tsed/core": "5.65.7",
     "@tsed/di": "5.31.3",
     "@tsed/multipartfiles": "5.31.3",
     "@tsed/socketio": "5.31.3",
